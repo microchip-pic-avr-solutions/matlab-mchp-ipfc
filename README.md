@@ -38,14 +38,17 @@ Follow the below instructions step-by-step, to set up and run the MATLAB and Sim
 6. Double click on the **Scope** to view the input and output signals in the system.
 
     <p align="left">
-      <img  src="images/dem5.png">
+      <img  src="images/dem10.png">
 
     Example plots are shown below:
+    <p align="left">
+      <img  src="images/dem9.png">
+
     <p align="left">
       <img  src="images/dem8.png"> 
 
     <p align="left">
-      <img  src="images/dem9.png">   
+      <img  src="images/dem5.png">   
 
 7. **Variable load** subsystem can be used to test the model under different load conditions to check the dynamic performance.
 
