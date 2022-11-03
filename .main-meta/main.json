@@ -4,10 +4,10 @@
    "content":{
       "metaDataVersion":"1.0.0",
       "name":"com.microchip.matlab.project.matlab-mchp-ipfc",
-      "version":"x.x.x",
-      "displayName":"xxxxxxxxxxxxxxx",
+      "version":"1.0.0",
+      "displayName":"MATLAB-Simulink model for Interleaved Boost PFC",
       "projectName":"matlab-mchp-ipfc",
-      "shortDescription":"xxxxxxxxxxxxxxx",
+      "shortDescription":"MATLAB-Simulink model for Interleaved Boost PFC",
       "simulationTool":{
          "name":"MATLAB/Simulink",
          "semverRange":">=2022"
@@ -25,8 +25,8 @@
          "semverRange":"^2.0.0"
       },
       "dfp":{
-         "name":"xxxxxxxxxxxxxxx",
-         "semverRange":">=x.x.x"
+         "name":"dsPIC33CK-MC_DFP",
+         "semverRange":"=1.5.126"
       },
       "device":{
          "metaDataVersion":"1.0.0",
@@ -34,13 +34,15 @@
          "content":{
             "metaDataVersion":"1.0.0",
             "category":"com.microchip.device",
-            "name":"xxxxxxxxxxxxxxx",
+            "name":"dsPIC33CK64MC105",
             "versionRange":"*"
          }
       },
       "keywords":[
-        "GPIO",
-		"UART"
+        "Boost Converter",
+		"PFC",
+		"ADC",
+		"PWM"
       ]
    }
 }
