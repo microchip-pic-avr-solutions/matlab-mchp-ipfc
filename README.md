@@ -8,7 +8,7 @@ This document describes how to configure and run the MATLAB-Simulink model of In
 ### 2.1 MATLAB Model Required for the Demonstration
 To clone or download MATLAB model on GitHub,
 - Navigate to the [main page of this repository](https://github.com/microchip-pic-avr-solutions/matlab-mchp-ipfc) and
-- On the tab <> Code, above the list of files in the right-hand corner, click Code, then from the menu, click Download ZIP or copy the repository URL to clone.
+- On the tab **<> Code**, above the list of files in the right-hand corner, click Code, then from the menu, click **Download ZIP** or copy the repository URL to **clone**.
 
 ### 2.2	Software Tools Required for the Demonstration
 - MATLAB R2022a
