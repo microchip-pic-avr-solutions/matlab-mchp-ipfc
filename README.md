@@ -6,13 +6,15 @@ This document describes how to configure and run the MATLAB-Simulink model of In
 
 ## 2.	SUGGESTED DEMONSTRATION REQUIREMENTS
 ### 2.1 MATLAB Model Required for the Demonstration
--  MATLAB model can be cloned or downloaded as zip file from the Github repository ([link](https://github.com/microchip-pic-avr-solutions/matlab-mchp-ipfc)).
+To clone or download MATLAB model on GitHub,
+- Navigate to the [main page of this repository](https://github.com/microchip-pic-avr-solutions/matlab-mchp-ipfc) and
+- On the tab <> Code, above the list of files in the right-hand corner, click Code, then from the menu, click Download ZIP or copy the repository URL to clone.
 
 ### 2.2	Software Tools Required for the Demonstration
-1.	MATLAB R2022a
+- MATLAB R2022a
 
 ## 3.	BASIC DEMONSTRATION
-Follow the below instructions step-by-step, to set up and run the MATLAB and Simulink model of interleaved boost power factor correction converter
+Follow the below instructions step-by-step, to set up and run the MATLAB and Simulink model of Interleaved Boost Power Factor Correction Converter
 
 1. Launch MATLAB R2022a 
 2. Open the folder downloaded from the [Github repository](https://github.com/microchip-pic-avr-solutions/matlab-mchp-ipfc)
