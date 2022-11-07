@@ -1,0 +1,48 @@
+{
+   "metaDataVersion":"1.0.0",
+   "category":"com.microchip.matlab.project",
+   "content":{
+      "metaDataVersion":"1.0.0",
+      "name":"com.microchip.matlab.project.matlab-mchp-ipfc",
+      "version":"1.0.0",
+      "displayName":"MATLAB-Simulink model for Interleaved Boost PFC",
+      "projectName":"matlab-mchp-ipfc",
+      "shortDescription":"MATLAB-Simulink model for Interleaved Boost PFC",
+      "simulationTool":{
+         "name":"MATLAB/Simulink",
+         "semverRange":">=2022"
+      },
+	  "addonPackages":[
+				"MATLAB add on packages",
+				"Simulink",
+				"MPLAB Device blocks for Simulink",
+				"Motor Control Blockset",
+				"Embedded Coder",
+				"Fixed-Point Designer"
+      ],
+      "compiler":{
+         "name":"XC16",
+         "semverRange":"^2.0.0"
+      },
+      "dfp":{
+         "name":"dsPIC33CK-MC_DFP",
+         "semverRange":"=1.5.126"
+      },
+      "device":{
+         "metaDataVersion":"1.0.0",
+         "category":"com.microchip.portal.contentRef",
+         "content":{
+            "metaDataVersion":"1.0.0",
+            "category":"com.microchip.device",
+            "name":"dsPIC33CK64MC105",
+            "versionRange":"*"
+         }
+      },
+      "keywords":[
+        "Boost Converter",
+		"PFC",
+		"ADC",
+		"PWM"
+      ]
+   }
+}
